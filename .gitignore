@@ -1,0 +1,42 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# Mac system files
+.DS_Store
+
+# Python logs & debug
+*.log
+
+# Trained models and weights
+*.pt
+*.pth
+
+# Data files
+*.csv
+*.tsv
+*.jsonl
+*.zip
+*.tar
+*.tar.gz
+
+# Environment files
+.env
+
+# Generated content
+outputs/
+runs/
+checkpoints/
